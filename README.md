@@ -3,7 +3,7 @@
 ## ISI信道
 
 - ISI信道抽头延迟线模型
-![figure](.\Fig\ISI信道模型.png)
+<img src="Fig/ISI信道模型.png">
 $y_k = \sum^{L-1}_{i=0}{h_ix_{k-i}} + n_k$                    (1)
 
 - 矩阵描述形式
@@ -88,8 +88,8 @@ $y_k = \sum^{L-1}_{i=0}{h_ix_{k-i}} + n_k$                    (1)
 
 - 2径ISI信道下BPSK、QPSK误码率的对比
 
-  ![figure](.\Fig\untitled.png)
+  <img src="Fig/untitled.png">
 
 - BPSK下2径ISI信道、3径ISI信道的误码率对比
 
-  ![figure](.\Fig\untitled1.png)
+  <img src="Fig/untitled1.png">
